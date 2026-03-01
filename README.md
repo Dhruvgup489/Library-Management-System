@@ -26,9 +26,10 @@ This project is developed to manage library records digitally.
 - Search functionality
 
 ## 🛠 Technology Used
-- Python
-- MySQL
-- Tkinter
+- C Programming Language  
+- GCC Compiler  
+- File Handling (Binary Files)  
+
 
 ## ▶ How to Run
 1. Install Python
