@@ -31,8 +31,5 @@ This project is developed to manage library records digitally.
 - File Handling (Binary Files)  
 
 
-## ▶ How to Run
-1. Install Python
-2. Run main.py file
 
 
